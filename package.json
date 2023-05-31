@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.72",
+    "devexpress-gantt": "4.1.43",
+    "devextreme": "22.2.6",
+    "devextreme-quill": "1.5.20",
+    "devextreme-vue": "22.2.6",
+    "dx-systemjs-vue-browser": "1.0.15",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "latest",
+    "inferno-compat": "latest",
+    "inferno-create-class": "latest",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "latest",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "mitt": "latest",
+    "prettier": "2.8.4",
+    "rrule": "2.6.4",
+    "vue": "3.2.47"
+  },
+  "description": "In this demo, the DataGrid allows users to select only one row at a time. To enable this mode, set the selection.mode property to \"single\".\nYou can access the selected row data from the onSelectionChanged function. In this demo, this function fetches the selected row's information and displays it under the grid.\n",
+  "name": "Row Selection - DevExtreme Data Grid"
+}
